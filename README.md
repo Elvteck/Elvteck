@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**Elvteck/Elvteck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Elvis, an AI backend engineer.
 
-Here are some ideas to get you started:
+I like to build whatever I can imagine.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If an idea pops into my head, chances are I'll build it or note the requirements aside.
+
+My main stack is Python, Git, GitHub, SQL, JavaScript and FastAPI.
+
+I am currently working on a few projects.
+
+## Fun Facts:
+
+- I am the first Claude campus ambassador in my school
+- The Day of the Jackal is my favorite series
+- Hobbies: learning new stuff
